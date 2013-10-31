@@ -15,4 +15,12 @@ class Card {
 	public void setSuit(String suit) {
 		this.suit = suit;
 	}
+
+	public int getNumber() {
+		return number;
+	}
+
+	public String getSuit() {
+		return this.suit;
+	}
 }
