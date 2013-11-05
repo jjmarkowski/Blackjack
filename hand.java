@@ -40,7 +40,10 @@ class Hand {
 				handValue = handValue - 10;
 			}
 		}
+<<<<<<< HEAD
 		
+=======
+>>>>>>> 9550fde8b41854a3fa23e037bb1996480a3de43e
 		return handValue;
 	}
 
